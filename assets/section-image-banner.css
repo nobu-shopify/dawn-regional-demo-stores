@@ -328,8 +328,8 @@
   }
 
   .banner--desktop-transparent .button--secondary {
-    --color-button: 105, 105, 105;
-    --color-button-text: 255, 105, 105;
+    --color-button: 0, 0, 0;
+    --color-button-text: 0, 0, 0;
     --alpha-button-background: 0;
   }
 
