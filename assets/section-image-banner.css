@@ -206,7 +206,6 @@
     --color-button: 255, 255, 255;
     --color-button-text: 255, 255, 255;
     --alpha-button-background: 0;
-    color: black;
   }
 
   .banner--stacked:not(.banner--mobile-bottom):not(.banner--adapt)
@@ -320,7 +319,7 @@
   .banner--desktop-transparent .banner__box {
     background: transparent;
     --color-foreground: 255, 255, 255;
-    --color-button: 255, 255, 255;
+    --color-button: 105, 105, 105;
     --color-button-text: 0, 0, 0;
     max-width: 89rem;
     border: none;
