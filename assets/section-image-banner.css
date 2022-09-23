@@ -206,6 +206,7 @@
     --color-button: 255, 255, 255;
     --color-button-text: 255, 255, 255;
     --alpha-button-background: 0;
+    color: black;
   }
 
   .banner--stacked:not(.banner--mobile-bottom):not(.banner--adapt)
@@ -411,7 +412,6 @@
   gap: 1rem;
   max-width: 45rem;
   word-break: break-word;
-  color: black;
 }
 
 @media screen and (max-width: 749px) {
