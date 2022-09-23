@@ -9,10 +9,18 @@
             "heading": "China Demo Store",
             "heading_size": "h1"
           }
+        },
+        "0c8d4033-c34b-427f-af13-f5107244e882": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
-        "1bf9b60d-e6bf-4ebd-ab86-1fa9e3b25fdc"
+        "1bf9b60d-e6bf-4ebd-ab86-1fa9e3b25fdc",
+        "0c8d4033-c34b-427f-af13-f5107244e882"
       ],
       "settings": {
         "image": "{{ shop.brand.cover_image }}",
