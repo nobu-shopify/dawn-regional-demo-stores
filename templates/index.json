@@ -50,12 +50,57 @@
     },
     "16639058969887e67a": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Latest Tutorial",
         "heading_size": "h2",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "1663909735f5a4fb82": {
+      "type": "collage",
+      "blocks": {
+        "1663909735a1ad2d65-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "68e6da28-b0b0-4500-9bbf-ec7a8541c925": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "d94d08ff-6428-4ef9-bf54-4034f06dd8fb": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "1663909735a1ad2d65-0",
+        "68e6da28-b0b0-4500-9bbf-ec7a8541c925",
+        "d94d08ff-6428-4ef9-bf54-4034f06dd8fb"
+      ],
+      "settings": {
+        "heading": "Latest Tutorial",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 20,
         "padding_bottom": 20
@@ -168,6 +213,7 @@
   "order": [
     "image_banner",
     "16639058969887e67a",
+    "1663909735f5a4fb82",
     "1663907228f2eb2097",
     "rich_text",
     "multicolumn"
