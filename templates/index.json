@@ -3,45 +3,25 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
+        "1bf9b60d-e6bf-4ebd-ab86-1fa9e3b25fdc": {
           "type": "heading",
           "settings": {
             "heading": "China Demo Store",
-            "heading_size": "h0"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Welcome to China Demo Store!",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "View Blog Posts",
-            "button_link_1": "shopify:\/\/blogs\/ニュース",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "1bf9b60d-e6bf-4ebd-ab86-1fa9e3b25fdc"
       ],
       "settings": {
         "image": "{{ shop.brand.cover_image }}",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
