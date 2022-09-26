@@ -12,9 +12,8 @@ h4, h5, .h4, .h5, .subtitle {
 }
 
 .header__inline-menu {
-  font-family: "ShopifySans Medium", Helvetica, Arial, sans-serif !important;
-  font-size: 1.0625em;
-  letter-spacing: 0.02em;
+  font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
+  font-size: 30px;
 }
 
 .text-body {
