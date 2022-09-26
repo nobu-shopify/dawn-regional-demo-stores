@@ -39,6 +39,12 @@ h4, h5, .h4, .h5 {
   letter-spacing: 0.02em !important;
 }
 
+.header__submenu {
+  font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important;
+  font-size: 0.9375em !important;
+  letter-spacing: normal !important;
+}
+
 .button--secondary {
   font-family: "ShopifySans Medium", Helvetica, Arial, sans-serif !important;
   font-size: 1em !important;
