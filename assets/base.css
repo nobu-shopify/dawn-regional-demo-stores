@@ -28,6 +28,8 @@ h4, h5, .h4, .h5, .subtitle {
   font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
   font-size: 1em !important;
   line-height: 1.133 !important;
+  letter-spacing: normal !important;
+  word-spacing: normal !important;
 }
 
 /* Color custom properties */
