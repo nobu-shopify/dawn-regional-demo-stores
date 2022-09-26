@@ -1,7 +1,7 @@
 /* Shopify Brand Font Theme */
 
 
-.banner__heading .h1 {
+h2.banner__heading.h1 {
   font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
   font-size: 3.25em !important;
   line-height: 3.225rem !important;
