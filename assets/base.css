@@ -20,16 +20,18 @@ h4, h5, .h4, .h5, .subtitle {
   letter-spacing: 0.02em !important;
 }
 
-.text-body {
-  font-family: "ShopifySans Black", Helvetica, Arial, sans-serif !important;
-}
-
 .button--secondary {
   font-family: "ShopifySans Medium", Helvetica, Arial, sans-serif !important;
   font-size: 1em !important;
   line-height: 1.133 !important;
   letter-spacing: normal !important;
   word-spacing: normal !important;
+}
+
+p, ul, ol {
+    font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
+    line-height: 1.5;
+    font-size: 1em;
 }
 
 /* Color custom properties */
