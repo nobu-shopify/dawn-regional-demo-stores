@@ -2888,5 +2888,11 @@ details-disclosure > details {
 }
 
 @font-face {
-font-family: "ShopifySans-Regular";src: url({{ "ShopifySans-Regular" | asset_url }}) format("woff2");
+  font-family: "ShopifySans";
+  src: url("ShopifySans-Regular.woff2") format("woff2"),
+       url("ShopifySans-Medium.woff2") format("woff2"),
+       url("ShopifySans-Light.woff2") format("woff2"),
+       url("ShopifySans-Extrabold.woff2") format("woff2"),
+       url("ShopifySans-Bold.woff2") format("woff2"),
+       url("ShopifySans-Black.woff2") format("woff2");
 }
