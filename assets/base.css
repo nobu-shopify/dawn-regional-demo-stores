@@ -25,7 +25,9 @@ h4, h5, .h4, .h5, .subtitle {
 }
 
 .button--secondary {
-  font-family: "ShopifySans Light", Helvetica, Arial, sans-serif !important;
+  font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important;
+  font-size: 1em !important;
+  line-height: 1.133 !important;
 }
 
 /* Color custom properties */
