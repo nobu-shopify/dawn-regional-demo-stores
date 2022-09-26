@@ -2,7 +2,7 @@
 
 h1, h1 a { font-family: "ShopifySans Black", Helvetica, Arial, sans-serif !important; }
 
-.banner__heading .h1 { font-family: "ShopifySans Black", Helvetica, Arial, sans-serif }
+.banner__heading { font-family: "ShopifySans Black", Helvetica, Arial, sans-serif }
 
 
 /* Color custom properties */
