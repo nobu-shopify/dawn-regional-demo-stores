@@ -1,6 +1,9 @@
 /* Shopify Brand Font Theme */
+h1, .h0, .h1 {
+  font-family: "ShopifySans Black", Helvetica, Arial, sans-serif !important;
+}
 
-h1, h2, h3, h4, h5, .h0, .h1, .h2, .h3, .h4, .h5 {
+h2, h3, h4, h5, .h2, .h3, .h4, .h5 {
   font-family: "ShopifySans Extrabold", Helvetica, Arial, sans-serif !important;
 }
 .subtitle {
