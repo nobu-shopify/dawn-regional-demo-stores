@@ -2887,6 +2887,6 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 
-.banner__heading .h1 {
+.banner__heading.h1 {
   font-family: "ShopifySans Black";
 }
