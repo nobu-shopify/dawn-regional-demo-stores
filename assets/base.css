@@ -381,7 +381,7 @@ h5,
 .h3,
 .h4,
 .h5 {
-  font-family: "ShopifySans";
+  font-family: var(--font-heading-family);
   font-style: var(--font-heading-style);
   font-weight: var(--font-heading-weight);
   letter-spacing: calc(var(--font-heading-scale) * 0.06rem);
@@ -2888,11 +2888,6 @@ details-disclosure > details {
 }
 
 @font-face {
-  font-family: "ShopifySans";
-  src: url("ShopifySans-Regular.woff2") format("woff2"),
-       url("ShopifySans-Medium.woff2") format("woff2"),
-       url("ShopifySans-Light.woff2") format("woff2"),
-       url("ShopifySans-Extrabold.woff2") format("woff2"),
-       url("ShopifySans-Bold.woff2") format("woff2"),
-       url("ShopifySans-Black.woff2") format("woff2");
+  font-family: "ShopifySans-Regular";
+  src: url("ShopifySans-Regular.woff2") format("woff2");
 }
