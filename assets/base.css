@@ -9,7 +9,7 @@ h2, h3, h4, h5, .h2, .h3, .h4, .h5 {
 .subtitle {
   font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important;
 }
-.text-body {
+.text-body, .select__select {
   font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
 }
 
