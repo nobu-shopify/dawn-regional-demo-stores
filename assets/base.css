@@ -11,7 +11,7 @@ h4, h5, .h4, .h5, .subtitle {
   font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important;
 }
 
-.header__inline-menu, .list-menu list-menu--inline {
+.header__inline-menu, .list-menu, .header__menu {
   font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
   font-size: large;
 }
