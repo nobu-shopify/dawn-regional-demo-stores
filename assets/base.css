@@ -11,9 +11,15 @@ h2.banner__heading.h1 {
   margin-bottom: 0.5em !important;
 }
 
-h2, h3, .h2, .h3 {
+h2, .h2 {
   font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
   font-size: 1.5em !important;
+}
+
+h3, .h3 {
+  font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
+  font-size: 1.125em !important;
+  line-height: 1.5rem !important;
 }
 
 h4, h5, .h4, .h5 {
