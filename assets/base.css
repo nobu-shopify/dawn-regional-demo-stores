@@ -2886,8 +2886,3 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
-
-@font-face {
-  font-family: "ShopifySans-Regular";
-  src: url("ShopifySans-Regular.woff2") format("woff2");
-}
