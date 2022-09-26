@@ -2,7 +2,7 @@
 
 h1, h1 a, h2, h2 a { font-family: "ShopifySans Extrabold", Helvetica, Arial, sans-serif !important; }
 .subtitle { font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important; }
-p { font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important; }
+.text-body { font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important; }
 
 /* Color custom properties */
 
