@@ -9,7 +9,7 @@ h2, h3, .h2, .h3 {
 }
 
 h4, h5, .h4, .h5, .subtitle {
-  font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important;
+  font-family: "ShopifySans Medium", Helvetica, Arial, sans-serif !important;
   font-size: 1em !important;
   line-height: 1.33333125 !important;
 }
