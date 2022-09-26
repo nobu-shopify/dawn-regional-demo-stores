@@ -4,6 +4,11 @@ h1, .h0, .h1 {
   letter-spacing: -0.084375rem !important;
 }
 
+.banner__heading h1 {
+  font-size: 3.25em;
+  line-height: 3.225rem;
+}
+
 h2, h3, .h2, .h3 {
   font-family: "ShopifySans Extrabold", Helvetica, Arial, sans-serif !important;
 }
