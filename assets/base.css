@@ -1,18 +1,14 @@
 /* Shopify Brand Font Theme */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-.h0,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5 { font-family: "ShopifySans Extrabold", Helvetica, Arial, sans-serif !important; }
-.subtitle { font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important; }
-.text-body { font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important; }
+h1, h2, h3, h4, h5, .h0, .h1, .h2, .h3, .h4, .h5 {
+  font-family: "ShopifySans Extrabold", Helvetica, Arial, sans-serif !important;
+}
+.subtitle {
+  font-family: "ShopifySans Bold", Helvetica, Arial, sans-serif !important;
+}
+.text-body {
+  font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
+}
 
 /* Color custom properties */
 
