@@ -1,6 +1,7 @@
 /* Shopify Brand Font Theme */
 h1, .h0, .h1 {
   font-family: "ShopifySans Black", Helvetica, Arial, sans-serif !important;
+  letter-spacing: -0.084375rem;
 }
 
 h2, h3, .h2, .h3 {
