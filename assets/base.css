@@ -2888,5 +2888,5 @@ details-disclosure > details {
 }
 
 h1, h2 {
-  font-family: "ShopifySans Black";
+  font-family: "ShopifySans Black" !important;
 }
