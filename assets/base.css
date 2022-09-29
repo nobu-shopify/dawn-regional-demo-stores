@@ -33,7 +33,7 @@ h4, h5, .h4, .h5 {
 
 }
 
-.header__inline-menu, .header__menu-item, .list-menu__item, .full-unstyled-link {
+.header__inline-menu, .header__menu-item, .list-menu__item {
   font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
   font-size: 1.0625em !important;
   letter-spacing: 0.02em !important;
