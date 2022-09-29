@@ -6,14 +6,14 @@
         "1bf9b60d-e6bf-4ebd-ab86-1fa9e3b25fdc": {
           "type": "heading",
           "settings": {
-            "heading": "China Demo Store",
+            "heading": "Japan Demo Store",
             "heading_size": "h1"
           }
         },
         "0c8d4033-c34b-427f-af13-f5107244e882": {
           "type": "text",
           "settings": {
-            "text": "Welcome to China Demo Store! This is where we share blog posts and demo videos about tips and recommendations for your Shopify stores.",
+            "text": "Welcome to Japan Demo Store! This is where we share blog posts and demo videos about tips and recommendations for your Shopify stores.",
             "text_style": "subtitle"
           }
         },
@@ -159,7 +159,6 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/running-cloudy-day.jpg",
             "title": "Person 1",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -169,7 +168,6 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/running-cloudy-day.jpg",
             "title": "Person 2",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -179,7 +177,6 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/running-cloudy-day.jpg",
             "title": "Person 3",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
