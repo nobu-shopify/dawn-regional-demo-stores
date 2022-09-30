@@ -142,6 +142,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/Plus_Glyph_RGB_Black.png",
           "logo_width": 50,
           "logo_position": "middle-left",
           "menu": "main-menu",
