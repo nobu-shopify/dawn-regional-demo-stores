@@ -52,7 +52,7 @@
     "card_shadow_vertical_offset": 4,
     "card_shadow_blur": 5,
     "blog_card_style": "card",
-    "blog_card_color_scheme": "inverse",
+    "blog_card_color_scheme": "accent-1",
     "text_boxes_border_thickness": 0,
     "text_boxes_border_opacity": 10,
     "text_boxes_radius": 0,
@@ -141,7 +141,7 @@
       "footer": {
         "type": "footer",
         "settings": {
-          "color_scheme": "inverse",
+          "color_scheme": "accent-1",
           "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
