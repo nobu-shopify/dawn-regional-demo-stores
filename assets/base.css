@@ -64,10 +64,6 @@ p, ul, ol {
     font-size: 1em !important;
 }
 
-div > div.multicolumn-card__info > div > p:nth-child(1) > strong {
-  
-}
-
 div > div.multicolumn-card__info > div > p:nth-child(2) {
   font-size: 14px !important;
 }
