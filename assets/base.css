@@ -64,9 +64,10 @@ p, ul, ol {
     font-size: 1em;
 }
 
-#Slide-template--15439577382964__multicolumn-1 > div > div.multicolumn-card__info > div > p:nth-child(2) {
-  font-size: 12px;
+div > div.multicolumn-card__info > div > p:nth-child(2) {
+  font-size: 14px;
 }
+
 
 /* Color custom properties */
 
