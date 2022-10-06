@@ -107,7 +107,8 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "color_scheme": "background-1",
+              "text_alignment": "center",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
@@ -122,12 +123,14 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "{{ shop.brand.logo }}",
-          "logo_width": 90,
+          "logo": "shopify:\/\/shop_images\/Plus_Glyph_RGB_Black.png",
+          "logo_width": 50,
           "logo_position": "middle-left",
           "menu": "main-menu",
+          "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
+          "mobile_logo_position": "center",
           "margin_bottom": 0,
           "padding_top": 20,
           "padding_bottom": 20
@@ -190,7 +193,10 @@
           "color_scheme": "background-1"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
