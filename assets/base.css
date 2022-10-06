@@ -60,8 +60,12 @@ h4, h5, .h4, .h5 {
 
 p, ul, ol {
     font-family: "ShopifySans Regular", Helvetica, Arial, sans-serif !important;
-    line-height: 1.5;
-    font-size: 1em;
+    line-height: 1.5 !important;
+    font-size: 1em !important;
+}
+
+div > div.multicolumn-card__info > div > p:nth-child(1) > strong {
+  
 }
 
 div > div.multicolumn-card__info > div > p:nth-child(2) {
