@@ -101,6 +101,10 @@
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Plus_PrimaryLogo_RGB_Black.png",
+    "checkout_logo_size": "small",
+    "checkout_accent_color": "#121212",
+    "checkout_button_color": "#008060",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
