@@ -48,20 +48,6 @@
         "show_text_below": false
       }
     },
-    "16639058969887e67a": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "Latest Tutorial",
-        "heading_size": "h2",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "1663909735f5a4fb82": {
       "type": "collage",
       "blocks": {
@@ -212,7 +198,6 @@
   },
   "order": [
     "image_banner",
-    "16639058969887e67a",
     "1663909735f5a4fb82",
     "1663907228f2eb2097",
     "rich_text",
