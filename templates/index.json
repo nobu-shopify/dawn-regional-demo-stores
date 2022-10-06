@@ -161,7 +161,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/E017D49VC3F-U02JYPVU9CY-1a1a88acf937-512_3c035c18-cd54-4d48-a67f-59f3618a0134.jpg",
             "title": "Yan Liang",
-            "text": "<p>Solutions Engineer<\/p><p>&lt;More discription to be added&gt;<\/p>",
+            "text": "<p><strong>Solutions Engineer<\/strong><\/p><p>&lt;More discription to be added&gt;<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -171,7 +171,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/E017D49VC3F-U0261GZKEBU-87a23a4f7ede-512.jpg",
             "title": "Justin Teo",
-            "text": "<p>Senior Launch Engineer<\/p><p>&lt;More discription to be added&gt;<\/p>",
+            "text": "<p><strong>Senior Launch Engineer<\/strong><\/p><p>Local commercial & strategic mindsets, strong local partner engagements in APAC, combined with deep Shopify ecosystem experience in helping our largest merchants transition and launch on Shopify.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -181,7 +181,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/E017D49VC3F-U02MBLETBR8-6bcabd6a341a-512.jpg",
             "title": "Lun Hsin Liu",
-            "text": "<p>Merchant Solutions Engineer<\/p><p>&lt;More discription to be added&gt;<\/p>",
+            "text": "<p><strong>Merchant Solutions Engineer<\/strong><\/p><p>Commercial & strategic mindset to build business cases to enact change and break down barriers for our largest merchants.<\/p>",
             "link_label": "",
             "link": ""
           }
