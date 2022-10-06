@@ -9,6 +9,7 @@ h2.banner__heading.h1 {
   font-size: 3.25em !important;
   line-height: 1.25 !important;
   margin-bottom: 0.5em !important;
+  color: #000000 !important; 
 }
 
 h2, .h2 {
@@ -34,7 +35,7 @@ h4, h5, .h4, .h5 {
 .subtitle {
   font-family: "ShopifySans Medium", Helvetica, Arial, sans-serif !important;
   font-size: 1em !important;
-
+  color: #000000 !important; 
 }
 
 .header__inline-menu, .header__menu-item, .list-menu__item {
@@ -54,6 +55,7 @@ h4, h5, .h4, .h5 {
   line-height: 1.133 !important;
   letter-spacing: normal !important;
   word-spacing: normal !important;
+  color: #000000 !important;
 }
 
 p, ul, ol {
