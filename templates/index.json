@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View Posts",
-            "button_link_1": "shopify:\/\/blogs\/news",
+            "button_link_1": "shopify:\/\/blogs\/ニュース",
             "button_style_secondary_1": true,
             "button_label_2": "View Videos",
             "button_link_2": "shopify:\/\/pages\/contact",
@@ -97,7 +97,7 @@
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h2",
-        "blog": "news",
+        "blog": "ニュース",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "background-1",
