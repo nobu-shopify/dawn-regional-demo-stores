@@ -124,6 +124,7 @@
       "blocks": {
         "f4a2c915-6cb5-4bd8-844b-54cbe6c44748": {
           "type": "shopify:\/\/apps\/mybasicapp1_custom2\/blocks\/app-block\/eba36862-4a2c-46e5-a41b-4f1c440fe485",
+          "disabled": true,
           "settings": {
             "color": "{{ shop.brand.colors.primary[0].foreground }}",
             "product": "{{ product }}",
