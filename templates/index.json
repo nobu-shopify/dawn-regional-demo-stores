@@ -111,19 +111,6 @@
     },
     "16751334486756853e": {
       "type": "apps",
-      "blocks": {
-        "2c7e09fe-995f-445f-ba01-b6ca872790a7": {
-          "type": "shopify:\/\/apps\/mybasicapp1_custom2\/blocks\/app-block\/eba36862-4a2c-46e5-a41b-4f1c440fe485",
-          "settings": {
-            "color": "#000000",
-            "product": "",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "2c7e09fe-995f-445f-ba01-b6ca872790a7"
-      ],
       "settings": {
         "include_margins": true
       }
