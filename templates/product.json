@@ -127,7 +127,7 @@
           "settings": {
             "color": "{{ shop.brand.colors.primary[0].foreground }}",
             "product": "{{ product }}",
-            "text": "{{ block.settings.product.metafields.seo.hidden.value }}"
+            "text": "{{ block.settings.product.metafields.custom.inventory.value }}"
           }
         }
       },
