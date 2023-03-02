@@ -5,7 +5,6 @@ update. Contact support@zetya.com if you need assistance with BookThatApp.
 
 == Version: 1.5 ==
 {%- endcomment -%}
-
 {%- if content_for_header contains 'bta-installed.js' -%}
   <script>
     {%- comment -%} BookThatApp config {%- endcomment -%}
@@ -56,10 +55,11 @@ update. Contact support@zetya.com if you need assistance with BookThatApp.
       account: '{{ shop.permanent_domain | split: '.' | first }}',
       bondVariantIds: bondVariantIds,
       settings: JSON.parse('{{ shop.metafields.bookthatapp.config }}' || '{}'),
-      {% if product %} 'product': productConfig,{% endif %}
+      {%- if product -%}product: productConfig,{%- endif -%}
       cart: {{ cart | json }},
       version: '1.5'
     }
-</script>
+  </script>
+
   {{ 'bta-widgets-bootstrap.min.js' | asset_url  | script_tag }}
 {%- endif -%}
