@@ -1,14 +1,5 @@
 {
   "sections": {
-    "485e3ea5-a003-425d-bfd1-3cc528022716": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{% if customer.b2b? %}\n{% for collection in collections %}\n  {{- collection.title | link_to: collection.url }}\n{% endfor %}\n{% else %}\n（未ログイン\/またはB2C顧客）\n{% endif %}",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -212,7 +203,6 @@
     }
   },
   "order": [
-    "485e3ea5-a003-425d-bfd1-3cc528022716",
     "image_banner",
     "1663909735f5a4fb82",
     "1663907228f2eb2097",
