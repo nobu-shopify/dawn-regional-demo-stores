@@ -188,11 +188,10 @@
 
     ],
     "blocks": {
-      "2223157937999120038": {
-        "type": "shopify:\/\/apps\/mybasicapp1_custom2\/blocks\/app-embed-block\/eba36862-4a2c-46e5-a41b-4f1c440fe485",
-        "disabled": true,
+      "8605505498557855500": {
+        "type": "shopify:\/\/apps\/bogos-free-gift-buy-x-get-y\/blocks\/app-embed\/0432bba6-720a-4e95-be5a-b868386f7aa6",
+        "disabled": false,
         "settings": {
-          "text": "Barebone app embed block message"
         }
       }
     }
